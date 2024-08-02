@@ -30,6 +30,68 @@ public class Calculadora extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jMenuItem1 = new javax.swing.JMenuItem();
+        jMenuItem2 = new javax.swing.JMenuItem();
+        jMenuBar2 = new javax.swing.JMenuBar();
+        jMenu1 = new javax.swing.JMenu();
+        jMenu2 = new javax.swing.JMenu();
+        jMenuBar3 = new javax.swing.JMenuBar();
+        jMenu3 = new javax.swing.JMenu();
+        jMenu4 = new javax.swing.JMenu();
+        jMenuBar4 = new javax.swing.JMenuBar();
+        jMenu5 = new javax.swing.JMenu();
+        jMenu6 = new javax.swing.JMenu();
+        jMenuBar5 = new javax.swing.JMenuBar();
+        jMenu7 = new javax.swing.JMenu();
+        jMenu8 = new javax.swing.JMenu();
+        jMenuBar6 = new javax.swing.JMenuBar();
+        jMenu9 = new javax.swing.JMenu();
+        jMenu10 = new javax.swing.JMenu();
+        jMenuBar7 = new javax.swing.JMenuBar();
+        jMenu11 = new javax.swing.JMenu();
+        jMenu12 = new javax.swing.JMenu();
+        jMenuBar8 = new javax.swing.JMenuBar();
+        jMenu13 = new javax.swing.JMenu();
+        jMenu14 = new javax.swing.JMenu();
+        jMenuBar9 = new javax.swing.JMenuBar();
+        jMenu15 = new javax.swing.JMenu();
+        jMenu16 = new javax.swing.JMenu();
+        jMenu17 = new javax.swing.JMenu();
+        jMenuBar10 = new javax.swing.JMenuBar();
+        jMenu18 = new javax.swing.JMenu();
+        jMenu19 = new javax.swing.JMenu();
+        jMenuBar11 = new javax.swing.JMenuBar();
+        jMenu20 = new javax.swing.JMenu();
+        jMenu21 = new javax.swing.JMenu();
+        jMenuItem3 = new javax.swing.JMenuItem();
+        jMenu22 = new javax.swing.JMenu();
+        jMenuBar12 = new javax.swing.JMenuBar();
+        jMenu23 = new javax.swing.JMenu();
+        jMenu24 = new javax.swing.JMenu();
+        jMenuBar13 = new javax.swing.JMenuBar();
+        jMenu25 = new javax.swing.JMenu();
+        jMenu26 = new javax.swing.JMenu();
+        jFrame1 = new javax.swing.JFrame();
+        jFrame2 = new javax.swing.JFrame();
+        jMenuBar14 = new javax.swing.JMenuBar();
+        jMenu27 = new javax.swing.JMenu();
+        jMenu28 = new javax.swing.JMenu();
+        jMenuBar15 = new javax.swing.JMenuBar();
+        jMenu29 = new javax.swing.JMenu();
+        jMenu30 = new javax.swing.JMenu();
+        jMenuBar16 = new javax.swing.JMenuBar();
+        jMenu31 = new javax.swing.JMenu();
+        jMenu32 = new javax.swing.JMenu();
+        jMenuBar17 = new javax.swing.JMenuBar();
+        jMenu33 = new javax.swing.JMenu();
+        jMenu34 = new javax.swing.JMenu();
+        jMenuBar18 = new javax.swing.JMenuBar();
+        jMenu35 = new javax.swing.JMenu();
+        jMenu36 = new javax.swing.JMenu();
+        jMenuBar19 = new javax.swing.JMenuBar();
+        jMenu37 = new javax.swing.JMenu();
+        jMenu38 = new javax.swing.JMenu();
+        jMenu39 = new javax.swing.JMenu();
         jPanel1 = new javax.swing.JPanel();
         casilla = new javax.swing.JLabel();
         jButton1 = new javax.swing.JButton();
@@ -49,6 +111,151 @@ public class Calculadora extends javax.swing.JFrame {
         jButton15 = new javax.swing.JButton();
         jButton16 = new javax.swing.JButton();
         jButton17 = new javax.swing.JButton();
+        jMenuBar20 = new javax.swing.JMenuBar();
+        jMenu40 = new javax.swing.JMenu();
+        jMenu41 = new javax.swing.JMenu();
+
+        jMenuItem1.setText("jMenuItem1");
+
+        jMenuItem2.setText("jMenuItem2");
+
+        jMenu1.setText("File");
+        jMenuBar2.add(jMenu1);
+
+        jMenu2.setText("Edit");
+        jMenuBar2.add(jMenu2);
+
+        jMenu3.setText("File");
+        jMenuBar3.add(jMenu3);
+
+        jMenu4.setText("Edit");
+        jMenuBar3.add(jMenu4);
+
+        jMenu5.setText("File");
+        jMenuBar4.add(jMenu5);
+
+        jMenu6.setText("Edit");
+        jMenuBar4.add(jMenu6);
+
+        jMenu7.setText("File");
+        jMenuBar5.add(jMenu7);
+
+        jMenu8.setText("Edit");
+        jMenuBar5.add(jMenu8);
+
+        jMenu9.setText("File");
+        jMenuBar6.add(jMenu9);
+
+        jMenu10.setText("Edit");
+        jMenuBar6.add(jMenu10);
+
+        jMenu11.setText("File");
+        jMenuBar7.add(jMenu11);
+
+        jMenu12.setText("Edit");
+        jMenuBar7.add(jMenu12);
+
+        jMenu13.setText("File");
+        jMenuBar8.add(jMenu13);
+
+        jMenu14.setText("Edit");
+        jMenuBar8.add(jMenu14);
+
+        jMenu15.setText("File");
+        jMenuBar9.add(jMenu15);
+
+        jMenu16.setText("Edit");
+        jMenuBar9.add(jMenu16);
+
+        jMenu17.setText("jMenu17");
+
+        jMenu18.setText("File");
+        jMenuBar10.add(jMenu18);
+
+        jMenu19.setText("Edit");
+        jMenuBar10.add(jMenu19);
+
+        jMenu20.setText("File");
+        jMenuBar11.add(jMenu20);
+
+        jMenu21.setText("Edit");
+        jMenuBar11.add(jMenu21);
+
+        jMenuItem3.setText("jMenuItem3");
+
+        jMenu22.setText("jMenu22");
+
+        jMenu23.setText("File");
+        jMenuBar12.add(jMenu23);
+
+        jMenu24.setText("Edit");
+        jMenuBar12.add(jMenu24);
+
+        jMenu25.setText("File");
+        jMenuBar13.add(jMenu25);
+
+        jMenu26.setText("Edit");
+        jMenuBar13.add(jMenu26);
+
+        javax.swing.GroupLayout jFrame1Layout = new javax.swing.GroupLayout(jFrame1.getContentPane());
+        jFrame1.getContentPane().setLayout(jFrame1Layout);
+        jFrame1Layout.setHorizontalGroup(
+            jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 400, Short.MAX_VALUE)
+        );
+        jFrame1Layout.setVerticalGroup(
+            jFrame1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 300, Short.MAX_VALUE)
+        );
+
+        javax.swing.GroupLayout jFrame2Layout = new javax.swing.GroupLayout(jFrame2.getContentPane());
+        jFrame2.getContentPane().setLayout(jFrame2Layout);
+        jFrame2Layout.setHorizontalGroup(
+            jFrame2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 400, Short.MAX_VALUE)
+        );
+        jFrame2Layout.setVerticalGroup(
+            jFrame2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 300, Short.MAX_VALUE)
+        );
+
+        jMenu27.setText("File");
+        jMenuBar14.add(jMenu27);
+
+        jMenu28.setText("Edit");
+        jMenuBar14.add(jMenu28);
+
+        jMenu29.setText("File");
+        jMenuBar15.add(jMenu29);
+
+        jMenu30.setText("Edit");
+        jMenuBar15.add(jMenu30);
+
+        jMenu31.setText("File");
+        jMenuBar16.add(jMenu31);
+
+        jMenu32.setText("Edit");
+        jMenuBar16.add(jMenu32);
+
+        jMenu33.setText("File");
+        jMenuBar17.add(jMenu33);
+
+        jMenu34.setText("Edit");
+        jMenuBar17.add(jMenu34);
+
+        jMenu35.setText("File");
+        jMenuBar18.add(jMenu35);
+
+        jMenu36.setText("Edit");
+        jMenuBar18.add(jMenu36);
+
+        jMenu37.setText("File");
+        jMenuBar19.add(jMenu37);
+
+        jMenu38.setText("Edit");
+        jMenuBar19.add(jMenu38);
+
+        jMenu39.setText("jMenu39");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -269,12 +476,12 @@ public class Calculadora extends javax.swing.JFrame {
                             .addComponent(jButton3, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jButton8, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jButton15, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 50, javax.swing.GroupLayout.PREFERRED_SIZE))))
-                .addContainerGap(58, Short.MAX_VALUE))
+                .addContainerGap(49, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(39, 39, 39)
+                .addGap(23, 23, 23)
                 .addComponent(casilla, javax.swing.GroupLayout.PREFERRED_SIZE, 38, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
@@ -310,6 +517,14 @@ public class Calculadora extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
+        jMenu40.setText("Opciones");
+        jMenuBar20.add(jMenu40);
+
+        jMenu41.setText("Ayuda ");
+        jMenuBar20.add(jMenu41);
+
+        setJMenuBar(jMenuBar20);
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -318,7 +533,9 @@ public class Calculadora extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
         pack();
@@ -481,6 +698,71 @@ public class Calculadora extends javax.swing.JFrame {
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
+    private javax.swing.JFrame jFrame1;
+    private javax.swing.JFrame jFrame2;
+    private javax.swing.JMenu jMenu1;
+    private javax.swing.JMenu jMenu10;
+    private javax.swing.JMenu jMenu11;
+    private javax.swing.JMenu jMenu12;
+    private javax.swing.JMenu jMenu13;
+    private javax.swing.JMenu jMenu14;
+    private javax.swing.JMenu jMenu15;
+    private javax.swing.JMenu jMenu16;
+    private javax.swing.JMenu jMenu17;
+    private javax.swing.JMenu jMenu18;
+    private javax.swing.JMenu jMenu19;
+    private javax.swing.JMenu jMenu2;
+    private javax.swing.JMenu jMenu20;
+    private javax.swing.JMenu jMenu21;
+    private javax.swing.JMenu jMenu22;
+    private javax.swing.JMenu jMenu23;
+    private javax.swing.JMenu jMenu24;
+    private javax.swing.JMenu jMenu25;
+    private javax.swing.JMenu jMenu26;
+    private javax.swing.JMenu jMenu27;
+    private javax.swing.JMenu jMenu28;
+    private javax.swing.JMenu jMenu29;
+    private javax.swing.JMenu jMenu3;
+    private javax.swing.JMenu jMenu30;
+    private javax.swing.JMenu jMenu31;
+    private javax.swing.JMenu jMenu32;
+    private javax.swing.JMenu jMenu33;
+    private javax.swing.JMenu jMenu34;
+    private javax.swing.JMenu jMenu35;
+    private javax.swing.JMenu jMenu36;
+    private javax.swing.JMenu jMenu37;
+    private javax.swing.JMenu jMenu38;
+    private javax.swing.JMenu jMenu39;
+    private javax.swing.JMenu jMenu4;
+    private javax.swing.JMenu jMenu40;
+    private javax.swing.JMenu jMenu41;
+    private javax.swing.JMenu jMenu5;
+    private javax.swing.JMenu jMenu6;
+    private javax.swing.JMenu jMenu7;
+    private javax.swing.JMenu jMenu8;
+    private javax.swing.JMenu jMenu9;
+    private javax.swing.JMenuBar jMenuBar10;
+    private javax.swing.JMenuBar jMenuBar11;
+    private javax.swing.JMenuBar jMenuBar12;
+    private javax.swing.JMenuBar jMenuBar13;
+    private javax.swing.JMenuBar jMenuBar14;
+    private javax.swing.JMenuBar jMenuBar15;
+    private javax.swing.JMenuBar jMenuBar16;
+    private javax.swing.JMenuBar jMenuBar17;
+    private javax.swing.JMenuBar jMenuBar18;
+    private javax.swing.JMenuBar jMenuBar19;
+    private javax.swing.JMenuBar jMenuBar2;
+    private javax.swing.JMenuBar jMenuBar20;
+    private javax.swing.JMenuBar jMenuBar3;
+    private javax.swing.JMenuBar jMenuBar4;
+    private javax.swing.JMenuBar jMenuBar5;
+    private javax.swing.JMenuBar jMenuBar6;
+    private javax.swing.JMenuBar jMenuBar7;
+    private javax.swing.JMenuBar jMenuBar8;
+    private javax.swing.JMenuBar jMenuBar9;
+    private javax.swing.JMenuItem jMenuItem1;
+    private javax.swing.JMenuItem jMenuItem2;
+    private javax.swing.JMenuItem jMenuItem3;
     private javax.swing.JPanel jPanel1;
     // End of variables declaration//GEN-END:variables
 }
